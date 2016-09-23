@@ -4,4 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes.
 create a new branch is quick.
 world of warcraft
-hahaha
+Creating a new branch is quick AND simple.
+
